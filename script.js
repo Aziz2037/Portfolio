@@ -42,8 +42,8 @@ $(document).ready(function(){
     });
 
     var typed = new Typed(".typing-2", {
-        strings: ["Teacher", "Subject Matter Expert", "Research Motivated Student", "Ebook Writer", "Freelancer"],
-        typeSpeed: 100,
+        strings: ["Teacher", "Research Motivated Student", "Subject Matter Expert", "Ebook Writer", "Freelancer"],
+        typeSpeed: 120,
         backSpeed: 60,
         loop: true
     });
